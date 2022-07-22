@@ -12,5 +12,5 @@ Process of commiting project to github
 4:Add the files to Git index.(using git add . or git add "file name")
 5:Commit Added Files.(using git commit -m "commit message")
 6:Add new remote origin (using git remote add origin https://github.com...........)
-7:Push to GitHub.(using git push -u "branch name")
+7:Push to GitHub.(using git push -u origin "branch name")
 
